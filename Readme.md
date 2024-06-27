@@ -1,6 +1,6 @@
 # Weather Web Application 🌤️
 
-This project is a Weather Web Application built using [describe technologies/frameworks used, e.g., HTML, CSS, JavaScript, ReactJS].
+This project is a Weather Web Application built using [describe technologies/frameworks used, e.g., HTML, CSS, JavaScript].
 
 ## Features ✨
 
